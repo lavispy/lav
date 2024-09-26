@@ -1,0 +1,140 @@
+* {
+    font-family: "Prompt", sans-serif;
+}
+
+.Instagram {
+    width: 300px;
+    height: 50px;
+    padding: 20px;
+    border: 2px solid rgb(133, 133, 133);
+    background: linear-gradient(45deg, rgb(245, 142, 26), rgb(233, 27, 118));
+    border-radius: 50px;
+    margin-bottom: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.WhatsApp {
+    width: 300px;
+    height: 50px;
+    padding: 20px;
+    border: 2px solid rgb(133, 133, 133);
+    background: linear-gradient(45deg, rgb(49, 208, 78), rgb(0, 255, 47));
+    border-radius: 50px;
+    margin-bottom: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.riseChat {
+    width: 300px;
+    height: 50px;
+    padding: 20px;
+    border: 2px solid rgb(133, 133, 133);
+    background-color: rgb(255, 0, 0);
+    border-radius: 50px;
+    margin-bottom: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.WhatsApp h4 {
+    color: white;
+}
+
+.riseChat h4 {
+    color: white;
+}
+
+.Instagram {
+    color: white;
+}
+
+.Instagram {
+    position: relative;
+}
+
+.Instagram section img {
+    position: absolute;
+    top: 28.5px;
+    left: 28.5px;
+    width: 32px;
+    height: auto;
+}
+
+.WhatsApp {
+    position: relative;
+}
+
+.WhatsApp section img {
+    position: absolute;
+    top: 30px;
+    left: 28.5px;
+    width: 30px;
+    height: auto;
+}
+
+.riseChat {
+    position: relative;
+}
+
+.riseChat section img {
+    position: absolute;
+    top: 30px;
+    left: 28.5px;
+    width: 30px;
+    height: auto;
+}
+
+body {
+    background-color: black;
+    margin: 0;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    margin-bottom: -4px;
+}
+
+.profile img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #ddd;
+}
+
+.name h4 {
+    color: white;
+    font-size: 20px;
+}
+
+.link-instagram {
+    color: white;
+    text-decoration: none;
+}
+
+.link-whatsapp {
+    color: white;
+    text-decoration: none;
+}
+
+.link-rise {
+    color: white;
+    text-decoration: none;
+}
