@@ -3,8 +3,8 @@
 }
 
 .Instagram {
-    width: 300px;
-    height: 50px;
+    width: 200px;
+    height: 25px;
     padding: 20px;
     border: 2px solid rgb(133, 133, 133);
     background: linear-gradient(45deg, rgb(245, 142, 26), rgb(233, 27, 118));
@@ -18,8 +18,8 @@
 
 
 .WhatsApp {
-    width: 300px;
-    height: 50px;
+    width: 200px;
+    height: 25px;
     padding: 20px;
     border: 2px solid rgb(133, 133, 133);
     background: linear-gradient(45deg, rgb(49, 208, 78), rgb(0, 255, 47));
@@ -32,8 +32,8 @@
 }
 
 .riseChat {
-    width: 300px;
-    height: 50px;
+    width: 200px;
+    height: 25px;
     padding: 20px;
     border: 2px solid rgb(133, 133, 133);
     background-color: rgb(255, 0, 0);
@@ -46,8 +46,8 @@
 }
 
 .discord {
-    width: 300px;
-    height: 50px;
+    width: 200px;
+    height: 25px;
     padding: 20px;
     border: 2px solid rgb(133, 133, 133);
     background-color: rgb(138, 156, 254);
@@ -82,9 +82,9 @@
 
 .Instagram section img {
     position: absolute;
-    top: 28.5px;
-    left: 28.5px;
-    width: 32px;
+    top: 19.5px;
+    left: 24.5px;
+    width: 26px;
     height: auto;
 }
 
@@ -94,9 +94,9 @@
 
 .WhatsApp section img {
     position: absolute;
-    top: 30px;
-    left: 28.5px;
-    width: 30px;
+    top: 22px;
+    left: 24.5px;
+    width: 22px;
     height: auto;
 }
 
@@ -106,9 +106,9 @@
 
 .riseChat section img {
     position: absolute;
-    top: 30px;
-    left: 28.5px;
-    width: 30px;
+    top: 22px;
+    left: 24.5px;
+    width: 22px;
     height: auto;
 }
 
@@ -163,9 +163,9 @@ body {
 
 .discord section img {
     position: absolute;
-    top: 28.5px;
-    left: 28.5px;
-    width: 32px;
+    top: 19.5px;
+    left: 24.5px;
+    width: 26px;
     height: auto;
 }
 
