@@ -45,21 +45,6 @@
     align-items: center;
 }
 
-.discord {
-    width: 200px;
-    height: 25px;
-    padding: 20px;
-    border: 2px solid rgb(133, 133, 133);
-    background-color: rgb(138, 156, 254);
-    border-radius: 50px;
-    margin-bottom: 20px;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-
 .WhatsApp h4 {
     color: white;
 }
@@ -153,23 +138,6 @@ body {
 }
 
 .link-rise {
-    color: white;
-    text-decoration: none;
-}
-
-.discord {
-    position: relative;
-}
-
-.discord section img {
-    position: absolute;
-    top: 19.5px;
-    left: 24.5px;
-    width: 26px;
-    height: auto;
-}
-
-.link-discord {
     color: white;
     text-decoration: none;
 }
